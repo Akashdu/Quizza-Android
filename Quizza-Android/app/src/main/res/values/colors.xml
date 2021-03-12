@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6e40</color>
+    <color name="colorPrimaryDark">#c53d13</color>
+    <color name="colorPrimaryLight">#ffa06d</color>
+    <color name="colorBottomBarBackground">#f9f9f9</color>
+    <color name="colorSecondary">#303f9f</color>
+    <color name="colorSecondaryDark">#001970</color>
+    <color name="colorSecondaryLight">#666ad1</color>
+    <color name="colorLoginPanelLight">#f5f5f5</color>
+    <color name="colorLoginPanelDark">#f5f5f5</color>
+    <color name="colorLoginPanelBorder">#e0e0e0</color>
+
+    <color name="game_answer_text">@color/colorSecondaryDark</color>
+    <color name="game_answer_background">#ffffff</color>
+
+    <color name="game_answer_correct_background">#43a047</color>
+    <color name="game_answer_correct_text">#ffffff</color>
+
+    <color name="game_answer_chosen_correct_background">#034508</color>
+    <color name="game_answer_chosen_correct_text">@color/colorPrimary</color>
+
+    <color name="game_answer_chosen_incorrect_background">#d32f2f</color>
+    <color name="game_answer_chosen_incorrect_text">#ffffff</color>
+
+    <color name="game_answer_incorrect_background">#d32f2f</color>
+    <color name="game_answer_incorrect_text">#ffffff</color>
+</resources>
