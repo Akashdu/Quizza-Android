@@ -85,42 +85,32 @@ All screenshots can be found in PDF form at [the root of the submission.](screen
 #### Finding an online match:
 
 
-![image](https://user-images.githubusercontent.com/47060506/110919646-80fbd500-8342-11eb-8b20-8c0d014d981e.png)
-
+<img src="Quizza-Android/readme_assets/img/quiz_matchmaker.jpg" width="33%" />
 
   
 
 #### Quiz Stats Overview:
 
-![image](https://user-images.githubusercontent.com/47060506/110919703-8eb15a80-8342-11eb-9e88-fac3b51ffa4b.png)
+<img src="Quizza-Android/readme_assets/img/quiz_overview_stats.jpg" width="33%" />
 
   
 
 #### Quiz Details:
 
-![image](https://user-images.githubusercontent.com/47060506/110919740-996bef80-8342-11eb-9ea9-9af37c568c97.png)
-
+<img src="Quizza-Android/readme_assets/img/quiz_details.jpg" width="33%" />
   
-
 
 ##### Editing a Quiz:
 
 
-![image](https://user-images.githubusercontent.com/47060506/110919812-abe62900-8342-11eb-8071-af4b2d6b2e41.png)
-
-![image](https://user-images.githubusercontent.com/47060506/110919838-b3a5cd80-8342-11eb-8229-445fed9d8c53.png)
-
+<img src="Quizza-Android/readme_assets/img/quiz_edit_1.jpg" width="33%" /> <img src="Quizza-Android/readme_assets/img/quiz_edit_2.jpg" width="33%" /> <img src="Quizza-Android/readme_assets/img/quiz_edit_3.jpg" width="33%" />
   
-
 
 ##### Quiz Login & Registration:
 
-![image](https://user-images.githubusercontent.com/47060506/110919926-c91af780-8342-11eb-9940-922431f0f70f.png)
+<img src="Quizza-Android/readme_assets/img/quiz_login.jpg" width="33%" />
 
 ##### Quiz User Profile:
-![image](https://user-images.githubusercontent.com/47060506/110920028-ea7be380-8342-11eb-9cf3-3cd4c238b0e9.png)
-  
+<img src="Quizza-Android/readme_assets/img/quiz_profile.jpg" width="33%" />  
 
-##### Quiz App Icon:
-![image](https://user-images.githubusercontent.com/47060506/110920059-f49de200-8342-11eb-9d81-60b326cb8d3f.png)
 
