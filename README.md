@@ -73,14 +73,12 @@ All screenshots can be found in PDF form at [the root of the submission.](screen
 
 #### Practicing a Quiz:
 
-![image](https://user-images.githubusercontent.com/47060506/110919477-4f830980-8342-11eb-9826-a5cc68f86087.png)
-
-![image](https://user-images.githubusercontent.com/47060506/110919572-69bce780-8342-11eb-9b27-7f74d8b8a729.png)
-
-![image](https://user-images.githubusercontent.com/47060506/110919588-704b5f00-8342-11eb-82ce-1c7d7a5081c3.png)
-
+<img src="Quizza-Android/readme_assets/img/quiz_view_correct_confetti_1.jpg" width="33%" /> <img src="Quizza-Android/readme_assets/img/quiz_view_correct_confetti_2.jpg" width="33%" /> <img src="Quizza-Android/readme_assets/img/quiz_view_correct_confetti_3.jpg" width="33%" />
   
 
+
+<img src="Quizza-Android/readme_assets/img/quiz_view_incorrect_1.jpg" width="33%" /> <img src="Quizza-Android/readme_assets/img/quiz_view_incorrect_2.jpg" width="33%" />
+  
 
 
 
