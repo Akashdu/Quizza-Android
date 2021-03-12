@@ -1,6 +1,6 @@
 # Quizza - The FBLA Mobile Quiz App
 
-This project won first place at the Florida FBLA state leadership conference. The presentation slides can be viewed [here](presentation.pdf).
+The presentation slides can be viewed [here](presentation-converted.pptx).
 
 ## Topic Correlation
 
@@ -32,7 +32,7 @@ Quizza comes with 5 local sample quizzes. Users can create new quizzes and publi
 3.  Run `mvn install` within `source/quiz-game-server/quiz-game-client`
 4.  Open Quiz.iml in the `source/quizza-android` folder
 5.  Explore the application
-6.  View the [license](LICENSE.txt)
+
 
 
 #### Usage
@@ -69,63 +69,60 @@ Applications can also be generated using Android Studio by opening the project f
 
 ### Screenshots
 
-All screenshots can be found in PDF form at [the root of the submission.](./screenshots.pdf)
+All screenshots can be found in PDF form at [the root of the submission.](screenshots-pages-deleted.pdf)
 
 #### Practicing a Quiz:
 
-<img src="readme_assets/img/quiz_view_correct_confetti_1.jpg" width="33%" /> <img src="readme_assets/img/quiz_view_correct_confetti_2.jpg" width="33%" /> <img src="readme_assets/img/quiz_view_correct_confetti_3.jpg" width="33%" />
+![image](https://user-images.githubusercontent.com/47060506/110919477-4f830980-8342-11eb-9826-a5cc68f86087.png)
+
+![image](https://user-images.githubusercontent.com/47060506/110919572-69bce780-8342-11eb-9b27-7f74d8b8a729.png)
+
+![image](https://user-images.githubusercontent.com/47060506/110919588-704b5f00-8342-11eb-82ce-1c7d7a5081c3.png)
+
   
 
 
-<img src="readme_assets/img/quiz_view_incorrect_1.jpg" width="33%" /> <img src="readme_assets/img/quiz_view_incorrect_2.jpg" width="33%" />
-  
+
 
 #### Finding an online match:
 
 
-<img src="readme_assets/img/quiz_matchmaker.jpg" width="33%" />
+![image](https://user-images.githubusercontent.com/47060506/110919646-80fbd500-8342-11eb-8b20-8c0d014d981e.png)
+
 
   
 
 #### Quiz Stats Overview:
 
-<img src="readme_assets/img/quiz_overview_stats.jpg" width="33%" />
+![image](https://user-images.githubusercontent.com/47060506/110919703-8eb15a80-8342-11eb-9e88-fac3b51ffa4b.png)
 
   
 
 #### Quiz Details:
 
-<img src="readme_assets/img/quiz_details.jpg" width="33%" />
+![image](https://user-images.githubusercontent.com/47060506/110919740-996bef80-8342-11eb-9ea9-9af37c568c97.png)
 
   
 
-##### Quiz Battle List:
-
-<img src="readme_assets/img/quiz_battle.jpg" width="33%" />
-  
 
 ##### Editing a Quiz:
 
 
-<img src="readme_assets/img/quiz_edit_1.jpg" width="33%" /> <img src="readme_assets/img/quiz_edit_2.jpg" width="33%" /> <img src="readme_assets/img/quiz_edit_3.jpg" width="33%" />
+![image](https://user-images.githubusercontent.com/47060506/110919812-abe62900-8342-11eb-8071-af4b2d6b2e41.png)
+
+![image](https://user-images.githubusercontent.com/47060506/110919838-b3a5cd80-8342-11eb-8229-445fed9d8c53.png)
+
   
 
-##### Create Quiz Overview:
-
-
-<img src="readme_assets/img/quiz_create_list_1.jpg" width="33%" /> <img src="readme_assets/img/quiz_create_list_2.jpg" width="33%" />
-  
 
 ##### Quiz Login & Registration:
 
-<img src="readme_assets/img/quiz_login.jpg" width="33%" />
+![image](https://user-images.githubusercontent.com/47060506/110919926-c91af780-8342-11eb-9940-922431f0f70f.png)
 
 ##### Quiz User Profile:
-<img src="readme_assets/img/quiz_profile.jpg" width="33%" />  
+![image](https://user-images.githubusercontent.com/47060506/110920028-ea7be380-8342-11eb-9cf3-3cd4c238b0e9.png)
+  
 
 ##### Quiz App Icon:
-<img src="readme_assets/img/quizza_app_icon.jpg" width="33%" /> 
-
-##### Reporting a Bug:
-<img src="readme_assets/img/quiz_report_bug.jpg" width="33%" />
+![image](https://user-images.githubusercontent.com/47060506/110920059-f49de200-8342-11eb-9d81-60b326cb8d3f.png)
 
