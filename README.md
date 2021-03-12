@@ -94,10 +94,6 @@ All screenshots can be found in PDF form at [the root of the submission.](screen
 <img src="Quizza-Android/readme_assets/img/quiz_overview_stats.jpg" width="33%" />
 
   
-
-#### Quiz Details:
-
-<img src="Quizza-Android/readme_assets/img/quiz_details.jpg" width="33%" />
   
 
 ##### Editing a Quiz:
@@ -109,8 +105,5 @@ All screenshots can be found in PDF form at [the root of the submission.](screen
 ##### Quiz Login & Registration:
 
 <img src="Quizza-Android/readme_assets/img/quiz_login.jpg" width="33%" />
-
-##### Quiz User Profile:
-<img src="Quizza-Android/readme_assets/img/quiz_profile.jpg" width="33%" />  
 
 
