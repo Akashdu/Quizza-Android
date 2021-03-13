@@ -69,7 +69,8 @@ Applications can also be generated using Android Studio by opening the project f
 
 ### Screenshots
 
-All screenshots can be found in PDF form at [the root of the submission.](screenshots-pages-deleted.pdf)
+![image](https://user-images.githubusercontent.com/47060506/111021556-35553400-83f3-11eb-9f9a-9cd928760ad0.png)
+
 
 #### Practicing a Quiz:
 
